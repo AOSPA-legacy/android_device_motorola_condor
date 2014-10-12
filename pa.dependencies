@@ -1,6 +1,36 @@
 [
   {
 	"remote": "github",
+	"repository": "savoca/furnace_kernel_motorola_msm8610",
+	"target_path": "kernel/motorola/msm8610",
+	"revision": "aospa-legacy"
+  },
+  {
+	"remote": "github",
+	"repository": "savoca/android_hardware_qcom_audio-caf",
+	"target_path": "hardware/qcom/audio-caf",
+	"revision": "cm-11.0"
+  },
+  {
+	"remote": "github",
+	"repository": "savoca/android_hardware_qcom_display",
+	"target_path": "hardware/qcom/display",
+	"revision": "cm-11.0"
+  },
+  {
+	"remote": "github",
+	"repository": "savoca/android_bootable_recovery",
+	"target_path": "bootable/recovery",
+	"revision": "cm-11.0"
+  },
+  {
+	"remote": "github",
+	"repository": "savoca/android_vendor_motorola_condor",
+	"target_path": "vendor/motorola/condor",
+	"revision": "aospa-legacy"
+  },
+  {
+	"remote": "github",
     "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
 	"revision": "cm-11.0"

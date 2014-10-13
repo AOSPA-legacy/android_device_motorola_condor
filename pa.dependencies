@@ -7,12 +7,6 @@
   },
   {
 	"remote": "github",
-	"repository": "savoca/android_hardware_qcom_audio-caf",
-	"target_path": "hardware/qcom/audio-caf",
-	"revision": "cm-11.0"
-  },
-  {
-	"remote": "github",
 	"repository": "savoca/android_hardware_qcom_display",
 	"target_path": "hardware/qcom/display",
 	"revision": "cm-11.0"

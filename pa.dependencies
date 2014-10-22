@@ -1,7 +1,7 @@
 [
   {
 	"remote": "github",
-	"repository": "savoca/furnace_kernel_motorola_msm8610",
+	"repository": "savoca/furnace-condor",
 	"target_path": "kernel/motorola/msm8610",
 	"revision": "aospa-legacy"
   },
